@@ -1,6 +1,6 @@
 # [Silver III] NBA 농구 - 2852
 
-[문제 링크]([여기에 문제 링크](https://www.acmicpc.net/problem/2852)) 
+[문제 링크](https://www.acmicpc.net/problem/2852) 
 
 ### 성능 요약
 
