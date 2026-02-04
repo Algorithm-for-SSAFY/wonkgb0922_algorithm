@@ -1,6 +1,6 @@
 # [Bronze, Silver, Gold, Platinum I, II, III, IV, V] 이름 - 번호
 
-[문제 링크](링크) 
+[문제 링크]() 
 
 ### 성능 요약
 
